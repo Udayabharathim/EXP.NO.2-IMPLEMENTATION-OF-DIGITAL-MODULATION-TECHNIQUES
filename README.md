@@ -53,7 +53,8 @@ of CARRIER
 ![image](https://github.com/user-attachments/assets/fdc4778f-2153-489e-a93f-07a14be9b9e3)
 
 ## OUTPUT GRAPHS
-
+![WhatsApp Image 2025-04-09 at 10 55 19_2ef03b61](https://github.com/user-attachments/assets/c5fd9c7b-c8d5-4b97-9baa-b79769c6df39)
+![WhatsApp Image 2025-04-09 at 10 55 18_277ca980](https://github.com/user-attachments/assets/a0ee2681-96ba-424c-876f-f2d68b469b4e)
 
 ## RESULT 
 The Study and Realize ASK,FSK and PSK Modulation and Demodulation using the Digital Modulation Trainer Kit was Successfully verified.
